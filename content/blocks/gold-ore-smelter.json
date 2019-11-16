@@ -1,0 +1,30 @@
+{
+	"type": "GenericSmelter",
+	"name": "Gold Ore Smelter",
+	"description": "Smelting gold ore in gold ingot",
+	"outputItem": {"item": "gold-ingot", "amount": 1},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 60,
+	"consumes": {
+		"power": 0.8,
+		"items": {
+			"items": [
+				{ "item": "gold-ore", "amount": 1 }
+			]
+	      }
+		},
+		
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "copper", "amount": 60 },
+		{ "item": "graphite", "amount": 20 },
+		{ "item": "silicon", "amount": 80 },
+		{ "item": "titanium", "amount": 50 },
+		{"item": "thorium", "amount": 30 }
+	],
+	"category": "crafting",
+	"research": "ruby-smelter"
+}

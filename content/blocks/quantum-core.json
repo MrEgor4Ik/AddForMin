@@ -1,0 +1,7 @@
+{
+	"name": "Core: Quantum",
+	"type": "CoreBlock",
+	"health": 15500
+	"itemCapacity": 50000
+	"size": 6
+}

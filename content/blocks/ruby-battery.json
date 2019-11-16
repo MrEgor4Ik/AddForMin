@@ -1,0 +1,15 @@
+{
+	"type": "battery",
+	"name": "Ruby Battery",
+	"description": "Improved version of Big Battery",
+	"size": 3,
+	"category": "power",
+	"requirements": [
+		{"item": "titanium", "amount": 120},
+		{"item": "copper", "amount": 60},
+		{"item": "silicon", "amount": 80},
+		{"item": "ruby", "amount": 100}
+	],
+	"consumes": { "powerBuffered": 250000 },
+	"research": "battery-large"
+}

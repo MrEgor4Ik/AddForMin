@@ -1,0 +1,36 @@
+{
+	"type": "GenericCrafter",
+	"name": "Obsidian Foundry",
+	"description": "Squeezed lava with water into Obsidian",
+	"itemCapacity": 10,
+	"outputItem": {"item": "obsidian", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 100,
+	"health" : 300,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "water",
+			"amount": 0.5
+		
+		},
+		"items": {
+			"items": [
+				{ "item": "squeezed-lava", "amount": 2 }
+			]
+		}
+		
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 350 },
+        { "item": "titanium", "amount": 400 },
+        { "item": "thorium", "amount": 150 }
+	],
+	"category": "crafting",
+	"research": "lava-compressor",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

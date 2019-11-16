@@ -1,0 +1,12 @@
+{
+	"name": "Obsidian Wall",
+	"description": "Good Wall",
+	"type": "Wall",
+	"health": 1500,
+	"size": 1,
+	"requirements": [
+		{ "item": "obsidian", "amount": 10 }
+	],
+	"category": "defense",
+	"research": "thorium-wall"
+}

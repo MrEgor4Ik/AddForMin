@@ -1,0 +1,8 @@
+{
+	"name": "Lava",
+	"description": "Imagine ruby, but not solid at all.",
+	"temperature": 0.9,
+    "viscosity": 0.2,
+    "effect": "burning",
+    "color": "da6322"
+}

@@ -1,0 +1,16 @@
+{
+	"type": "Conveyor",
+	"name": "Ruby Conveyor",
+	"health": 400,
+	"description": "Improved version of thorium conveyor.",
+	"requirements": [
+		{"item": "titanium", "amount": 5},
+		{"item": "copper", "amount": 10},
+		{"item": "lead", "amount": 5},
+		{"item": "thorium", "amount": 3},
+		{"item": "ruby", "amount": 2}
+	],
+	"category": "distribution",
+	"speed": 0.32,
+	"research": "electrum-conveyor"
+}

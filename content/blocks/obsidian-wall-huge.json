@@ -1,0 +1,12 @@
+{
+	"name": "Huge Obsidian Wall",
+	"description": "Good huge wall",
+	"type": "Wall",
+	"health": 13500,
+	"size": 3,
+	"requirements": [
+		{ "item": "obsidian", "amount": 90 }
+	],
+	"category": "defense",
+	"research": "obsidian-wall-large"
+}

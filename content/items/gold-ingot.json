@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Gold Ingot",
+	"description": "A rare mineral",
+	"hardness": 8,
+	"cost": 2.0,
+	"color": "f9fa16"
+}

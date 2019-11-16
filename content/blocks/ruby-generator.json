@@ -1,0 +1,31 @@
+{
+	"type": "SingleTypeGenerator",
+	"name": "Molten Ruby Generator",
+	"description": "Magically produces power from Molten Ruby. Don't ask.",
+	"size": 2,
+	"hasPower": true,
+	"hasItems": false,
+	"hasLiquid":true,
+	"liquidsDuration": 75,
+	"powerProduction": 3.0,
+	"consumes": {
+		"liquid": {
+			"liquid": "molten-ruby",
+			"amount": 0.3
+		
+		},
+		"items": {
+			"items": [
+				{ "item": "coal", "amount": 1 }
+			]
+		}
+		
+		},
+		
+	"requirements": [
+		{ "item": "ruby", "amount": 80 },
+		{ "item": "silicon", "amount": 60 }
+	],
+	"category": "power",
+	"research": "power-node"
+}

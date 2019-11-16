@@ -1,0 +1,15 @@
+{
+	"type": "Conveyor",
+	"name": "Thorium Conveyor",
+	"health": 250,
+	"description": "Improved version of titanium conveyor.",
+	"requirements": [
+		{"item": "titanium", "amount": 2},
+		{"item": "copper", "amount": 5},
+		{"item": "lead", "amount": 3},
+		{"item": "thorium", "amount": 1},
+	],
+	"category": "distribution",
+	"speed": 0.2,
+	"research": "titanium-conveyor"
+}

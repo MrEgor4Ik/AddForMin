@@ -1,0 +1,16 @@
+{
+	"type": "SolarGenerator",
+	"name": "Ruby Solar Panel",
+	"description": "Improved version of large solar panel",
+	"size": 2,
+    "powerProduction": 2.5,
+	"requirements": [
+		{"item": "titanium", "amount": 90},
+		{"item": "lead", "amount": 150},
+		{"item": "copper", "amount": 250},
+		{"item": "silicon", "amount": 80},
+		{"item": "ruby", "amount": 100}
+	],
+	"category": "power",
+	"research": "solar-panel-large"
+}

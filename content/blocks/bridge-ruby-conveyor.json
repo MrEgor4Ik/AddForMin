@@ -1,0 +1,19 @@
+{
+	"type": "ItemBridge",
+	"name": "Bridge Ruby Conveyor",
+	"health": 500,
+	"description": "Improved version of phase conveyor.",
+	"hasPower": true,
+	"range": 25,
+	"consumes":{
+	"power":0.5},
+	"requirements": [
+		{"item": "titanium", "amount": 2},
+		{"item": "ruby", "amount": 5},
+		{"item": "lead", "amount": 3},
+		{"item": "thorium", "amount": 1}
+	],
+	"category": "distribution",
+	"speedBridge": 0.2,
+	"research": "phase-conveyor"
+}

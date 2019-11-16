@@ -1,0 +1,8 @@
+{
+	"name": "Molten Ruby",
+	"description": "Imagine ruby, but not solid at all.",
+	"temperature": 0.5,
+    "viscosity": 0.8,
+    "effect": "melting",
+    "color": "f82121"
+}

@@ -1,0 +1,21 @@
+{
+	"name": "Ruby Mech",
+	"description": "FAST AND POWER",
+	"speed": 4,
+	"boostSpeed": 5,
+	"buildPower": 5.0,
+	"engineColor": "ff0000",
+	"flying": true,
+	"itemCapacity" : 15,
+	"health": 1000,
+	"weaponOffsetX": 0.3,
+	"weapon": {
+		"name": "ruby-equip",
+		"length": 0.2,
+		"reload": 7,
+		"alternate": false,
+		"bullet": "missileSwarm",
+		"damage": "0.000001",
+		"effect": "fire"
+	}
+}

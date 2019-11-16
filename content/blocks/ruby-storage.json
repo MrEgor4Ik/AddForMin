@@ -1,0 +1,17 @@
+{
+	"name": "Ruby Storage",
+	"description": "Improved version of storage",
+	"type": "Vault",
+	"itemCapacity": 5000,
+	"hasItems": true,
+	"health": 10000,
+	"size": 3,
+	"requirements": [
+		{ "item": "ruby", "amount": 250 },
+        { "item": "silicon", "amount": 80 },
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "thorium", "amount": 150 }
+	],
+	"category": "effect"
+	"research": "vault"
+}

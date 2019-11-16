@@ -1,0 +1,17 @@
+{
+	"type": "SolarGenerator",
+	"name": "Gold Solar Panel",
+	"description": "Improved version of ruby solar panel",
+	"size": 3,
+    "powerProduction": 4.0,
+	"requirements": [
+		{"item": "titanium", "amount": 90},
+		{"item": "lead", "amount": 150},
+		{"item": "copper", "amount": 250},
+		{"item": "silicon", "amount": 80},
+		{"item": "gold-ingot", "amount": 75},
+		{"item": "ruby", "amount":125}
+	],
+	"category": "power",
+	"research": "ruby-solar"
+}

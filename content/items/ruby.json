@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Ruby",
+	"description": "A rare mineral",
+	"hardness": 4,
+	"cost": 2.0,
+	"color": "f82121"
+}

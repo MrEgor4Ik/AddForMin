@@ -1,0 +1,8 @@
+{
+	"type": "material",
+	"name": "Gold Ore",
+	"description": "A rare mineral",
+	"hardness": 5,
+	"cost": 2.0,
+	"color": "fff064"
+}

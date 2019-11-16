@@ -1,0 +1,36 @@
+{
+	"type": "GenericCrafter",
+	"name": "Lava Compressor",
+	"description": "Compress titanium with lava into liquid",
+	"itemCapacity": 10,
+	"outputItem": {"item": "squeezed-lava", "amount": 1},
+	"size": 2,
+	"hasPower": true,
+	"hasLiquids": true,
+	"craftTime": 100,
+	"health" : 300,
+	"updateEffect": "smeltsmoke",
+	"consumes": {
+		"power": 3.0,
+		"liquid": {
+			"liquid": "liquid-lava",
+			"amount": 0.5
+		
+		},
+		"items": {
+			"items": [
+				{ "item": "titanium", "amount": 2 }
+			]
+		}
+		
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 150 },
+        { "item": "titanium", "amount": 200 },
+        { "item": "thorium", "amount": 100 }
+	],
+	"category": "crafting",
+	"research": "kiln",
+	"idleSound": "respawning",
+	"idleSoundVolume": 0.5
+}

@@ -1,0 +1,7 @@
+{
+	"type": "material",
+	"name": "Obsidian",
+	"description": "A rare mineral",
+	"cost": 2.0,
+	"color": "f82121"
+}

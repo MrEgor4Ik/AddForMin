@@ -1,0 +1,19 @@
+{
+	"name": "Ruby Mech Pad",
+	"description": "Transform into the Ruby mech",
+	"type": "MechPad",
+	"health" : 720,
+	"mech": "ruby-mech",
+	"size": 3,
+	"consumes": {
+		"power": 10.0
+	},
+	"category": "upgrade",
+	"research": "router",
+	"requirements": [
+		{ "item": "silicon", "amount": 2500 },
+	{ "item": "titanium", "amount": 1500 },
+	{ "item": "surge-alloy", "amount": 1000 },
+		{ "item": "ruby", "amount": 5000 }
+	]
+}

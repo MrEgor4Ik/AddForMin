@@ -1,0 +1,29 @@
+{
+	"name": "Quantum Drill",
+	"description": "Used for drill of All.",
+	"type": "Drill",
+	"size": 6,
+	"tier": 10,
+	"drillTime": 100,
+	"consumes": {
+		"power": 10.0,
+		"liquid": {
+			"liquid": "water", 
+			"amount": 1.0,
+		}
+	},
+	"requirements": [
+		{ "item": "silicon", "amount": 300 },
+		{ "item": "plastanium", "amount": 75 },
+		{ "item": "thorium", "amount": 200 },
+		{ "item": "copper", "amount": 1000 },
+		{ "item": "surge-alloy", "amount": 50 },
+		{ "item": "metaglass", "amount": 150 },
+		{ "item": "titanium", "amount": 100 },
+		{ "item": "lead", "amount": 500 },
+
+		{ "item": "graphite", "amount": 200 }
+	],
+	"category": "production",
+	"research": "blast-drill"
+}

@@ -1,0 +1,6 @@
+{
+	"type": "OreBlock",
+	"itemDrop": "ruby"
+	"hardness": 400,
+	"tier": 10
+}

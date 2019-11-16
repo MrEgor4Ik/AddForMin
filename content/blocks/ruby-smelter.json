@@ -1,0 +1,31 @@
+{
+	"type": "GenericSmelter",
+	"name": "Ruby Smelter",
+	"description": "Makes Molten Ruby from Ruby and Water",
+	"outputLiquid": {"liquid": "molten-ruby", "amount": 15},
+	"size": 3,
+	"hasPower": true,
+	"hasLiquids": false,
+	"hasItems": true,
+	"craftTime": 60,
+	"consumes": {
+		"power": 0.7,
+		"items": {
+			"items": [
+				{ "item": "ruby", "amount": 1 }
+			]
+	      },
+		  "liquid": {
+			"liquid": "water",
+			"amount": 0.3
+			}
+		},
+		
+	"requirements": [
+		{ "item": "lead", "amount": 50 },
+		{ "item": "silicon", "amount": 60 },
+		{ "item": "titanium", "amount": 50 }
+	],
+	"category": "crafting"
+	"research": "multi-press"
+}

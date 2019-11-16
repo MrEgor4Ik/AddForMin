@@ -1,0 +1,9 @@
+{
+	"name": "Lava",
+	"type": "Floor",
+	"variants": 0,
+    "isLiquid":true,
+    "liquidDrop" : "liquid-lava",
+    "status" : "burning",
+    "speedMultiplier" : 0.1
+}
