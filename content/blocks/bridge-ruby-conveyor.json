@@ -8,10 +8,11 @@
 	"consumes":{
 	"power":0.5},
 	"requirements": [
-		{"item": "titanium", "amount": 2},
-		{"item": "ruby", "amount": 5},
-		{"item": "lead", "amount": 3},
-		{"item": "thorium", "amount": 1}
+		{"item": "titanium", "amount": 5},
+		{"item": "ruby", "amount": 10},
+		{"item": "lead", "amount": 5},
+		{"item": "phase-fabric", "amount": 25},
+		{"item": "thorium", "amount": 10}
 	],
 	"category": "distribution",
 	"speedBridge": 0.2,
