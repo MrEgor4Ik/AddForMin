@@ -5,7 +5,7 @@
 	"health": 4400,
 	"size": 2,
 	"requirements": [
-		{ "item": "obsidian", "amount": 40 }
+		{ "item": "obsidian", "amount": 32 }
 	],
 	"category": "defense",
 	"research": "thorium-wall-large"
