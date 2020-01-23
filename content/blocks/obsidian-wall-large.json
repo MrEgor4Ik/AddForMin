@@ -2,7 +2,7 @@
 	"name": "Large Obsidian Wall",
 	"description": "Good large wall",
 	"type": "Wall",
-	"health": 6000,
+	"health": 4400,
 	"size": 2,
 	"requirements": [
 		{ "item": "obsidian", "amount": 40 }
