@@ -2,7 +2,7 @@
 	"name": "Obsidian Wall",
 	"description": "Good Wall",
 	"type": "Wall",
-	"health": 1500,
+	"health": 1100,
 	"size": 1,
 	"requirements": [
 		{ "item": "obsidian", "amount": 10 }
