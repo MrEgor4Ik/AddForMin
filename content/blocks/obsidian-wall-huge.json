@@ -2,10 +2,10 @@
 	"name": "Huge Obsidian Wall",
 	"description": "Good huge wall",
 	"type": "Wall",
-	"health": 13500,
+	"health": 9900,
 	"size": 3,
 	"requirements": [
-		{ "item": "obsidian", "amount": 90 }
+		{ "item": "obsidian", "amount": 72 }
 	],
 	"category": "defense",
 	"research": "obsidian-wall-large"
