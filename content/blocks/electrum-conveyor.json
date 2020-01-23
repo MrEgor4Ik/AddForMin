@@ -10,6 +10,6 @@
 		{"item": "thorium", "amount": 1},
 	],
 	"category": "distribution",
-	"speed": 0.2,
+	"speed": 0.18,
 	"research": "titanium-conveyor"
 }
