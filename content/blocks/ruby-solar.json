@@ -3,7 +3,7 @@
 	"name": "Ruby Solar Panel",
 	"description": "Improved version of large solar panel",
 	"size": 2,
-    "powerProduction": 78,
+    "powerProduction": 1.3,
 	"requirements": [
 		{"item": "titanium", "amount": 90},
 		{"item": "lead", "amount": 150},
