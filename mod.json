@@ -2,6 +2,7 @@
   "name": "Addition For Mindustry",
   "author": "[orange]MrEgor4Ik[]",
   "description": "Not big addition for mindustry.
+  
 
 Этот мод добавляет:
 1.Две новые руды: Рубин и Золото
@@ -40,6 +41,9 @@ This mod adds:
 
 Thank you for all the textures: Davidosikus
 Thanks for the translation: MrEgor4Ik(Author)"
-
+  
+  ---------------0.3.4Alpha----------------
+  Balance Changes
+  
   "version": "0.3.4Alpha"
 }
