@@ -7,11 +7,11 @@
 	"hasItems": false,
 	"hasLiquid":true,
 	"liquidsDuration": 60,
-	"powerProduction": 250,
+	"powerProduction": 4.0,
 	"consumes": {
 		"liquid": {
 			"liquid": "molten-ruby",
-			"amount": 12
+			"amount": 0.2
 		
 		},
 		"items": {
