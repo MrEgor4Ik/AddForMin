@@ -4,6 +4,7 @@
 	"type": "MechPad",
 	"health" : 720,
 	"mech": "ruby-mech",
+	"BuildingTime" : 30
 	"size": 3,
 	"consumes": {
 		"power": 10.0
@@ -11,9 +12,9 @@
 	"category": "upgrade",
 	"research": "router",
 	"requirements": [
-		{ "item": "silicon", "amount": 2500 },
-	{ "item": "titanium", "amount": 1500 },
-	{ "item": "surge-alloy", "amount": 1000 },
-		{ "item": "ruby", "amount": 5000 }
+		{ "item": "silicon", "amount": 300 },
+	{ "item": "titanium", "amount": 200 },
+	{ "item": "surge-alloy", "amount": 350 },
+		{ "item": "ruby", "amount": 1200 }
 	]
 }
