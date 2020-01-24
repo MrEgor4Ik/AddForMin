@@ -12,6 +12,6 @@
 		{"item": "ruby", "amount": 5}
 	],
 	"category": "distribution",
-	"speed": 0.28,
+	"speed": 0.24,
 	"research": "electrum-conveyor"
 }
