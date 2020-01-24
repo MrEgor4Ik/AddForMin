@@ -27,5 +27,5 @@
 		{ "item": "silicon", "amount": 120 }
 	],
 	"category": "power",
-	"research": "power-node"
+	"research": "differential-generator"
 }
