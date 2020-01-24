@@ -6,25 +6,25 @@
 	"hasPower": true,
 	"hasItems": false,
 	"hasLiquid":true,
-	"liquidsDuration": 75,
-	"powerProduction": 3.0,
+	"liquidsDuration": 60,
+	"powerProduction": 250,
 	"consumes": {
 		"liquid": {
 			"liquid": "molten-ruby",
-			"amount": 0.3
+			"amount": 12
 		
 		},
 		"items": {
 			"items": [
-				{ "item": "coal", "amount": 1 }
+				{ "item": "coal", "amount": 2 }
 			]
 		}
 		
 		},
 		
 	"requirements": [
-		{ "item": "ruby", "amount": 80 },
-		{ "item": "silicon", "amount": 60 }
+		{ "item": "ruby", "amount": 120 },
+		{ "item": "silicon", "amount": 120 }
 	],
 	"category": "power",
 	"research": "power-node"
