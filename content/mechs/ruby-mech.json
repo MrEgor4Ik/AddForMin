@@ -12,7 +12,7 @@
 	"weapon": {
 		"name": "ruby-equip",
 		"length": 0.2,
-		"reload": 10,
+		"reload": 8,
 		"alternate": false,
 		"bullet": "missileSwarm",
 		"damage": "1",
