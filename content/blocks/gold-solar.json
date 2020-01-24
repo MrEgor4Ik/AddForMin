@@ -3,7 +3,7 @@
 	"name": "Gold Solar Panel",
 	"description": "Improved version of ruby solar panel",
 	"size": 3,
-    "powerProduction": 4.0,
+    "powerProduction": 112,
 	"requirements": [
 		{"item": "titanium", "amount": 90},
 		{"item": "lead", "amount": 150},
